@@ -1,4 +1,4 @@
-package com.example.bookface_mobile
+package com.kcau.bookface_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
